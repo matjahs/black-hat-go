@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
-	"log"
-	"os"
+  "fmt"
+  "log"
+  "os"
 
-	"github.com/joho/godotenv"
-	"github.com/matjahs/black-hat-go/ch-3/metasploit-minimal/rpc"
+  "github.com/joho/godotenv"
+  "github.com/matjahs/black-hat-go/ch-3/04-metasploit-minimal/rpc"
 )
 
 func main() {

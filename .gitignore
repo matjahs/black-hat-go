@@ -17,3 +17,6 @@
 # IDE
 .idea/
 .vscode/
+
+# credentials
+ch-4/06-credential-harvesting/credentials.txt
